@@ -10,5 +10,5 @@ Showcasing terminal color capabilities with module: colorama.
 <br>
 
 #Screenshot
-Screenshot coming soon!
+<img src="screenshot.png">
 
